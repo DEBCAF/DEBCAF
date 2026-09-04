@@ -1,4 +1,4 @@
-## Yahallo!! 👋
+## Hello!! 👋
 I'm a beginner programmer with an interest in 
 - web dev
 - appsec
@@ -6,7 +6,7 @@ I'm a beginner programmer with an interest in
 - robotics and embedded systems
 
 
-I'm still learning so my code may look very weird.    
+I'm still learning so my code may not be the most efficient.    
 I make web apps / mobile apps to solve problems I have faced in real life
 
 
